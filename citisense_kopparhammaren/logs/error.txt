@@ -1,0 +1,46 @@
+2018-07-02_14:48 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_14:50 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_14:53 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_15:03 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:04 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:08 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_15:08 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_15:25 Msg: unpack requires a bytes object of length 16 CCS811 ERR, disabling
+2018-07-02_15:27 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:29 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:35 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:37 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:41 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_15:44 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_15:49 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-02_15:49 Msg: Shutting down due to low battery
+2018-07-02_15:55 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:04 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:05 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_16:09 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-07-02_16:10 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
+2018-07-02_16:17 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-07-02_16:17 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-07-04_16:33 Msg: unpack requires a bytes object of length 16 ARDUINO ERR, disabling
+2018-08-15_13:25 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-08-15_13:30 Msg: Shutting down due to low battery
+2018-08-15_13:38 Msg: Shutting down due to low battery
+2018-08-15_13:48 Msg: Shutting down due to low battery
+2018-08-15_14:15 Msg: Shutting down due to low battery
+2018-08-15_14:16 Msg: Shutting down due to low battery
+2018-08-15_14:28 Msg: Shutting down due to low battery
+2018-08-15_14:44 Msg: Shutting down due to low battery
+2018-08-15_15:07 Msg: Shutting down due to low battery
+2018-08-15_15:16 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-08-15_15:17 Msg: Shutting down due to low battery
+2018-08-16_15:50 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-08-17_10:02 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-08-17_10:02 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-08-17_10:06 Msg: Shutting down due to low battery
+2018-08-17_10:15 Msg: Shutting down due to low battery
+2018-08-20_12:28 Msg: i2c error returned s < 0 on recieve ARDUINO ERR, disabling
+2018-09-20_15:33 Msg: Shutting down due to low battery
+2018-10-24_08:56 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-09-14_11:33 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-09-14_11:46 Msg: i2c error returned s < 0 on recieve CCS811 ERR, disabling
+2018-09-14_11:32 Msg: 'I2C write failed' TEMP_SENS ERR, disabling
